@@ -1,0 +1,3 @@
+0 Fortuner
+1 Land Cruiser
+2 Harrier
